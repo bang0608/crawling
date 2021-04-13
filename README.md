@@ -54,7 +54,7 @@ public class MainServiceTest {
 
 
 
-![Image](src/main/resources/static/img/crawling_test.png){}
+![Image](src/main/resources/static/img/crawling_test.png)
 
 
 
